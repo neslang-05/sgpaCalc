@@ -244,13 +244,13 @@ const SGPACalculator = () => {
       <footer className="bg-gray-900 p-3 text-center text-gray-300 border-t border-gray-800 sticky bottom-0 z-20">
         <div className="mb-2 text-sm">Copyright 2025 Nilambar Elangbam</div>
         <div className="flex justify-center gap-3">
-          <a href="https://github.com" className="hover:text-gray-100">
+          <a href="https://github.com/neslang-05" className="hover:text-gray-100">
             <Github size={20} />
           </a>
-          <a href="https://instagram.com" className="hover:text-gray-100">
+          <a href="https://instagram.com/nilambar_e/" className="hover:text-gray-100">
             <Instagram size={20} />
           </a>
-          <a href="https://linkedin.com" className="hover:text-gray-100">
+          <a href="https://www.linkedin.com/in/nilambar-elangbam-524617247/" className="hover:text-gray-100">
             <Linkedin size={20} />
           </a>
         </div>
